@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="crossUIlib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/android/libs/crossUIlib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

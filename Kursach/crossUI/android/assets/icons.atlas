@@ -1,0 +1,41 @@
+
+icons.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cancel
+  rotate: false
+  xy: 328, 98
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+cross
+  rotate: false
+  xy: 426, 98
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+exit
+  rotate: false
+  xy: 524, 98
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+forward
+  rotate: false
+  xy: 622, 98
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+logo-mobile
+  rotate: false
+  xy: 2, 2
+  size: 324, 192
+  orig: 324, 192
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+<game lastScore="0">
+	<letter i="0" j="0" is_flying="false" text="Ф" x="0.0" y="640.0"/>
+	<letter i="0" j="1" is_flying="false" text="Л" x="0.0" y="560.0"/>
+	<letter i="0" j="2" is_flying="false" text="Ю" x="0.0" y="480.0"/>
+	<letter i="1" j="0" is_flying="false" text="Ц" x="80.0" y="640.0"/>
+	<letter i="1" j="1" is_flying="false" text="Ы" x="80.0" y="560.0"/>
+	<letter i="1" j="2" is_flying="false" text="Ъ" x="80.0" y="479.99997"/>
+	<letter i="1" j="3" is_flying="false" text="Х" x="80.0" y="400.0"/>
+	<letter i="1" j="4" is_flying="false" text="Ш" x="80.0" y="320.0"/>
+	<letter i="1" j="5" is_flying="false" text="А" x="80.0" y="240.0"/>
+	<letter i="2" j="0" is_flying="false" text="Ф" x="160.0" y="640.0"/>
+	<letter i="2" j="1" is_flying="false" text="И" x="160.0" y="560.0"/>
+	<letter i="2" j="2" is_flying="false" text="Р" x="160.0" y="480.0"/>
+	<letter i="2" j="3" is_flying="false" text="Н" x="160.0" y="400.0"/>
+	<letter i="2" j="4" is_flying="true" text="Б" x="160.0" y="85.591705"/>
+	<letter i="3" j="0" is_flying="false" text="Ч" x="240.0" y="640.0"/>
+	<letter i="3" j="1" is_flying="false" text="Н" x="240.0" y="560.0"/>
+	<letter i="3" j="2" is_flying="false" text="А" x="240.0" y="480.0"/>
+	<letter i="3" j="3" is_flying="false" text="Ь" x="240.0" y="400.0"/>
+	<letter i="3" j="4" is_flying="false" text="Б" x="240.0" y="320.0"/>
+	<letter i="3" j="5" is_flying="false" text="Ф" x="240.0" y="240.0"/>
+	<letter i="3" j="6" is_flying="false" text="Ы" x="240.0" y="160.0"/>
+	<letter i="3" j="7" is_flying="false" text="Е" x="240.0" y="80.0"/>
+	<letter i="4" j="0" is_flying="false" text="Т" x="320.0" y="640.0"/>
+	<letter i="4" j="1" is_flying="false" text="Э" x="320.0" y="560.0"/>
+	<letter i="4" j="2" is_flying="false" text="И" x="320.0" y="480.00003"/>
+	<letter i="4" j="3" is_flying="false" text="У" x="320.0" y="400.0"/>
+	<letter i="4" j="4" is_flying="false" text="Щ" x="320.0" y="320.0"/>
+	<letter i="5" j="0" is_flying="false" text="М" x="400.0" y="640.0"/>
+	<letter i="5" j="1" is_flying="false" text="Н" x="400.0" y="560.0"/>
+	<letter i="5" j="2" is_flying="false" text="С" x="400.0" y="480.00003"/>
+	<letter i="5" j="3" is_flying="false" text="П" x="400.0" y="400.0"/>
+	<letter i="5" j="4" is_flying="false" text="Я" x="400.0" y="320.0"/>
+</game>

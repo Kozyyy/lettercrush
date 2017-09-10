@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="gdx-dialogs-android-1.2.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/android/build/intermediates/exploded-aar/de.tomgrill.gdxdialogs/gdx-dialogs-android/1.2.0/res" />
+      <root url="jar://$PROJECT_DIR$/android/build/intermediates/exploded-aar/de.tomgrill.gdxdialogs/gdx-dialogs-android/1.2.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.tomgrill.gdxdialogs/gdx-dialogs-android/1.2.0/eec6f966ace42ae61de48304f1db7816bad0fcfe/gdx-dialogs-android-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
